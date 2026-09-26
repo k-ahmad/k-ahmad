@@ -1,6 +1,6 @@
 # 👨‍💻 KASHIF AHMAD
 
-<img align="left" src="https://github.com/k-ahmad.png" width="220" height="220" alt="Kashif Ahmad" style="border-radius: 50%;" />
+<img align="left" src="[https://github.com/k-ahmad.png](https://avatars.githubusercontent.com/u/247913067?s=400&u=5f8896550c0fc664d82dcd6c3575a63209056534&v=4)" width="220" height="220" alt="Kashif Ahmad" style="border-radius: 50%;" />
 
 ## Web Developer • Frontend Developer • MERN Learner
 
