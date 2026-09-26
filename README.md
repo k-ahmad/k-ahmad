@@ -176,18 +176,13 @@ I'm currently focused on improving my full-stack development skills.
 
 My goal is to bring everything together and build complete **MERN Stack applications**.
 
+---
 
 # 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=k-ahmad\&theme=tokyonight\&hide_border=true\&border_radius=10)
 
----
 
-# 🏆 GitHub Contributions
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=k-ahmad\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=8)
-
----
 
 # 📈 My Developer Journey
 
