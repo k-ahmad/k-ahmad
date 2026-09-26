@@ -113,7 +113,7 @@ A modern real-estate website where users can explore different properties throug
 **Technologies:**
 `React` `JavaScript` `CSS` `Bootstrap`
 
-🔗 [View Project →](https://github.com/k-ahmad)
+🔗 [View Project →](https://k-ahmad.github.io/Dream-houses/)
 
 ---
 
@@ -124,18 +124,18 @@ A responsive shopping website with product cards, categories, prices, ratings, s
 **Technologies:**
 `React` `JavaScript` `Bootstrap`
 
-🔗 [View Project →](https://github.com/k-ahmad)
+🔗 [View Project →](https://k-ahmad.github.io/e-commrece-project/)
 
 ---
 
-## 📝 Note Book App
+## 📝 Translate App
 
 A simple and clean productivity application for creating and managing notes.
 
 **Technologies:**
 `HTML` `CSS` `JavaScript`
 
-🔗 [View Project →](https://github.com/k-ahmad)
+🔗 [View Project →](https://k-ahmad.github.io/app-translater/)
 
 ---
 
@@ -154,7 +154,7 @@ A backend REST API for managing users with complete CRUD functionality.
 * Update users
 * Delete users
 
-🔗 [View Project →](https://github.com/k-ahmad)
+🔗 [View Project →](https://k-ahmad.github.io/mongodb-prectice/)
 
 ---
 
