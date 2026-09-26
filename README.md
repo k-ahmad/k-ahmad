@@ -176,15 +176,6 @@ I'm currently focused on improving my full-stack development skills.
 
 My goal is to bring everything together and build complete **MERN Stack applications**.
 
----
-
-# 📊 GitHub Analytics
-
-![Kashif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-ahmad\show_icons=true\theme=tokyonight\hide_border=true\border_radius=10)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k-ahmad\layout=compact\theme=tokyonight\hide_border=true\border_radius=10)
-
----
 
 # 🔥 GitHub Streak
 
