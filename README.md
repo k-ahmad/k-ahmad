@@ -241,8 +241,3 @@ If you're interested in web development, collaboration or building something int
 
 ---
 
-### ⭐ Thanks for visiting my profile!
-
-![Profile Views](https://komarev.com/ghpvc/?username=k-ahmad\&label=Profile%20Views\&color=0e75b6\&style=flat)
-
----
