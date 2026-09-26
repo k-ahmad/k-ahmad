@@ -180,9 +180,9 @@ My goal is to bring everything together and build complete **MERN Stack applicat
 
 # 📊 GitHub Analytics
 
-![Kashif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-ahmad\&show_icons=true\&theme=tokyonight\&hide_border=true\&border_radius=10)
+![Kashif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-ahmad\show_icons=true\&theme=tokyonight\&hide_border=true\&border_radius=10)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k-ahmad\&layout=compact\&theme=tokyonight\&hide_border=true\&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k-ahmad\layout=compact\&theme=tokyonight\&hide_border=true\&border_radius=10)
 
 ---
 
