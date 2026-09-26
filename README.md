@@ -1,8 +1,16 @@
 # 👨‍💻 KASHIF AHMAD
 
-### `Web Developer • Frontend Developer • MERN Learner`
+<img align="left" src="https://github.com/k-ahmad.png" width="220" height="220" alt="Kashif Ahmad" style="border-radius: 50%;" />
 
-I'm a passionate **Web Developer** focused on building modern, responsive and user-friendly web applications. I enjoy turning ideas into real projects and continuously improving my development skills.
+## Web Developer • Frontend Developer • MERN Learner
+
+I'm a passionate **Web Developer** focused on building modern, responsive and user-friendly web applications.
+
+I enjoy turning ideas into real projects and continuously improving my development skills.
+
+My main focus is **Frontend Development**, while I'm also learning **Backend Development** to become a Full-Stack Developer.
+
+<br clear="left"/>
 
 ---
 
@@ -16,8 +24,6 @@ I'm a passionate **Web Developer** focused on building modern, responsive and us
 # 👋 About Me
 
 Hi, I'm **Kashif Ahmad**, a Web Developer who loves creating clean, responsive and interactive websites.
-
-My main focus is **Frontend Development**, while I'm also learning **Backend Development** to become a Full-Stack Developer.
 
 I enjoy learning by building real-world projects, experimenting with new technologies and improving my existing work.
 
@@ -39,29 +45,29 @@ I enjoy learning by building real-world projects, experimenting with new technol
 
 ## 🎨 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)](https://getbootstrap.com/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)](https://react.dev/)
 
 ## ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)](https://expressjs.com/)
 
 ## 🗄️ Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge\&logo=mongoose\&logoColor=white)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)](https://www.mongodb.com/)
+[![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge\&logo=mongoose\&logoColor=white)](https://mongoosejs.com/)
 
 ## 🧰 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)](https://code.visualstudio.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)](https://www.postman.com/)
+[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)](https://www.npmjs.com/)
 
 ---
 
@@ -182,7 +188,7 @@ My goal is to bring everything together and build complete **MERN Stack applicat
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=k-ahmad\&theme=tokyonight\&hide_border=true\&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com/?user=k-ahmad\&theme=tokyonight\&hide_border=true\&border_radius=10)
 
 ---
 
