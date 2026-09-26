@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/yourusername.png" width="150" style="border-radius: 50%;" alt="Profile Picture"/>
+  <img src="https://github.com/k-ahmad.png" width="150" style="border-radius: 50%;" alt="Kashif Ahmad">
 </p>
 
 <h1 align="center">Hi 👋, I'm Your Name</h1>
