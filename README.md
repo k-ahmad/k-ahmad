@@ -1,357 +1,256 @@
-<!-- ========================= -->
-
-<!--        PROFILE HEADER     -->
-
-<!-- ========================= -->
-
-<div align="center">
-
 # 👨‍💻 KASHIF AHMAD
 
 ### `Web Developer • Frontend Developer • MERN Learner`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Experiences;Frontend+%26+Backend+Development;Learning+MERN+Stack;Turning+Ideas+Into+Web+Applications" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=k-ahmad&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge" />
-
-</div>
+I'm a passionate **Web Developer** focused on building modern, responsive and user-friendly web applications. I enjoy turning ideas into real projects and continuously improving my development skills.
 
 ---
 
-<table>
-<tr>
+## 🌐 Connect With Me
 
-<td width="38%" align="center" valign="top">
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/k-ahmad)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kashifahmad0047@gmail.com)
 
-<img src="YOUR_PROFILE_IMAGE_URL" width="260" style="border-radius:50%;" />
-
-<br/><br/>
-
-### 🌐 Connect With Me
-
-<a href="https://github.com/k-ahmad">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/>
-
-<a href="mailto:kashifahmad0047@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="62%" valign="top">
+---
 
 # 👋 About Me
 
-Hi, I'm **Kashif Ahmad**, a passionate **Web Developer** who enjoys creating modern, responsive and interactive web experiences.
+Hi, I'm **Kashif Ahmad**, a Web Developer who loves creating clean, responsive and interactive websites.
 
-I'm focused on improving my skills in both **Frontend and Backend Development** and building real-world projects that solve practical problems.
+My main focus is **Frontend Development**, while I'm also learning **Backend Development** to become a Full-Stack Developer.
 
-```javascript
-const kashif = {
-    role: "Web Developer",
+I enjoy learning by building real-world projects, experimenting with new technologies and improving my existing work.
 
-    currentlyLearning: [
-        "React.js",
-        "Node.js",
-        "Express.js",
-        "MongoDB"
-    ],
+### 🚀 What I'm Working On
 
-    frontend: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Bootstrap",
-        "React"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express.js",
-        "MongoDB"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Postman"
-    ],
-
-    goal: "Build modern and scalable web applications 🚀"
-};
-```
+* Building responsive web applications
+* Learning React.js and modern frontend development
+* Building REST APIs with Node.js and Express.js
+* Working with MongoDB and Mongoose
+* Improving my Git and GitHub workflow
+* Building real-world projects
 
 > 💡 **My philosophy:**
-> `Learn → Build → Break → Fix → Improve → Repeat`
-
-</td>
-
-</tr>
-</table>
+> `Learn → Build → Improve → Repeat`
 
 ---
 
 # ⚡ Tech Stack
 
-### 🎨 Frontend
+## 🎨 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
-### ⚙️ Backend & Database
+## ⚙️ Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
-### 🧰 Tools & Workflow
+## 🗄️ Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge\&logo=mongoose\&logoColor=white)
+
+## 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
 
 ---
 
 # 🚀 What I Build
 
-<table>
-<tr>
+### 🎨 Frontend Development
 
-<td width="33%" align="center">
+I build responsive and interactive websites using **HTML, CSS, JavaScript, Bootstrap and React.js**.
 
-## 🎨 Frontend
+I focus on:
 
-Modern and responsive interfaces using:
+* Responsive layouts
+* Modern UI
+* Reusable components
+* Interactive interfaces
+* Mobile-friendly designs
 
-**HTML • CSS • JavaScript • Bootstrap • React**
+### ⚙️ Backend Development
 
-</td>
+I'm learning backend development with **Node.js and Express.js**.
 
-<td width="33%" align="center">
+I work with:
 
-## ⚙️ Backend
+* REST APIs
+* CRUD operations
+* Routes
+* Controllers
+* Middleware
+* API testing with Postman
 
-REST APIs and server-side applications using:
+### 🗄️ Database Development
 
-**Node.js • Express.js**
-
-</td>
-
-<td width="33%" align="center">
-
-## 🗄️ Database
-
-Working with:
-
-**MongoDB • Mongoose**
-
-for storing and managing application data.
-
-</td>
-
-</tr>
-</table>
+I'm working with **MongoDB and Mongoose** to store and manage application data.
 
 ---
 
 # 💻 Featured Projects
 
-<table>
-<tr>
-
-<td width="50%">
-
 ## 🏠 Dream Houses
 
-A modern real-estate website where users can explore dream properties through a clean and responsive interface.
+A modern real-estate website where users can explore different properties through a responsive and attractive interface.
 
-**Tech:**
-
+**Technologies:**
 `React` `JavaScript` `CSS` `Bootstrap`
 
-🔗 **Repository:**
-[View Project →](https://github.com/k-ahmad)
+🔗 [View Project →](https://github.com/k-ahmad)
 
-</td>
-
-<td width="50%">
+---
 
 ## 🛍️ E-Commerce Website
 
-A responsive shopping website with product cards, categories, prices, ratings and interactive shopping features.
+A responsive shopping website with product cards, categories, prices, ratings, stock information and interactive shopping features.
 
-**Tech:**
-
+**Technologies:**
 `React` `JavaScript` `Bootstrap`
 
-🔗 **Repository:**
-[View Project →](https://github.com/k-ahmad)
+🔗 [View Project →](https://github.com/k-ahmad)
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
+---
 
 ## 📝 Note Book App
 
-A simple productivity application for creating and managing notes with a clean user interface.
+A simple and clean productivity application for creating and managing notes.
 
-**Tech:**
-
+**Technologies:**
 `HTML` `CSS` `JavaScript`
 
-🔗 **Repository:**
-[View Project →](https://github.com/k-ahmad)
+🔗 [View Project →](https://github.com/k-ahmad)
 
-</td>
-
-<td width="50%">
+---
 
 ## 🔐 User Management API
 
-A backend REST API for managing users with CRUD operations.
+A backend REST API for managing users with complete CRUD functionality.
 
-**Tech:**
-
+**Technologies:**
 `Node.js` `Express.js` `MongoDB` `Mongoose`
 
-🔗 **Repository:**
-[View Project →](https://github.com/k-ahmad)
+**Features:**
 
-</td>
+* Create users
+* Get users
+* Get user by ID
+* Update users
+* Delete users
 
-</tr>
-</table>
+🔗 [View Project →](https://github.com/k-ahmad)
 
 ---
 
 # 🧠 Currently Learning
 
-```text
-React.js
-   ↓
-Node.js
-   ↓
-Express.js
-   ↓
-MongoDB
-   ↓
-MERN Stack
-```
+I'm currently focused on improving my full-stack development skills.
 
-I'm continuously improving my knowledge by building projects instead of only learning theory.
+### Frontend
+
+`React.js` → `Advanced JavaScript` → `Reusable Components`
+
+### Backend
+
+`Node.js` → `Express.js` → `REST APIs`
+
+### Database
+
+`MongoDB` → `Mongoose` → `Database Operations`
+
+My goal is to bring everything together and build complete **MERN Stack applications**.
 
 ---
 
 # 📊 GitHub Analytics
 
-<div align="center">
+![Kashif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-ahmad\&show_icons=true\&theme=tokyonight\&hide_border=true\&border_radius=10)
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=k-ahmad&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k-ahmad\&layout=compact\&theme=tokyonight\&hide_border=true\&border_radius=10)
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-ahmad&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+---
 
-</div>
+# 🔥 GitHub Streak
 
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=k-ahmad&theme=tokyonight&hide_border=true&border_radius=12" />
-
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=k-ahmad\&theme=tokyonight\&hide_border=true\&border_radius=10)
 
 ---
 
 # 🏆 GitHub Contributions
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=k-ahmad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=k-ahmad\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=8)
 
 ---
 
 # 📈 My Developer Journey
 
-```text
-HTML / CSS
-    │
-    ▼
-JavaScript
-    │
-    ▼
-Bootstrap
-    │
-    ▼
-React.js
-    │
-    ▼
-Node.js
-    │
-    ▼
-Express.js
-    │
-    ▼
-MongoDB
-    │
-    ▼
-       🚀 MERN STACK
-```
+### 🌱 Started With
+
+**HTML → CSS → JavaScript**
+
+⬇️
+
+### 🎨 Frontend Development
+
+**Bootstrap → React.js**
+
+⬇️
+
+### ⚙️ Backend Development
+
+**Node.js → Express.js**
+
+⬇️
+
+### 🗄️ Database
+
+**MongoDB → Mongoose**
+
+⬇️
+
+### 🚀 Goal
+
+**Full-Stack MERN Developer**
 
 ---
 
 # 🎯 Future Goals
 
 * 🚀 Become a professional Full-Stack Developer
-* 🌍 Build applications for a global audience
 * 🧠 Master the MERN Stack
+* 🌍 Build applications for a global audience
 * ☁️ Learn deployment and cloud technologies
 * 🔥 Build larger real-world applications
 * 🤝 Collaborate with other developers
-* 📚 Keep learning new technologies
+* 📚 Keep learning and improving
+* 💡 Turn ideas into useful products
 
 ---
 
 # 💬 Let's Connect
 
-<div align="center">
-
 ### Have an idea? Let's build it together. 🚀
 
-<a href="mailto:kashifahmad0047@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+If you're interested in web development, collaboration or building something interesting, feel free to connect with me.
 
-<a href="https://github.com/k-ahmad">
-<img src="https://img.shields.io/badge/GITHUB-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/k-ahmad)
 
-</div>
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kashifahmad0047@gmail.com)
 
 ---
 
-<div align="center">
-
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer"/>
+![Profile Views](https://komarev.com/ghpvc/?username=k-ahmad\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
-</div>
+---
