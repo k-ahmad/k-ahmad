@@ -1,60 +1,100 @@
+<!-- ========================= -->
+
+<!--        PROFILE HEADER     -->
+
+<!-- ========================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7B2CFF&height=220&section=header&text=KASHIF%20AHMAD&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=WEB%20DEVELOPER%20%7C%20FRONTEND%20%7C%20MERN%20LEARNER&descAlignY=58&descSize=18"/>
+# 👨‍💻 KASHIF AHMAD
+
+### `Web Developer • Frontend Developer • MERN Learner`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Experiences;Frontend+%26+Backend+Development;Learning+MERN+Stack;Turning+Ideas+Into+Web+Applications" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=k-ahmad&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge" />
 
 </div>
+
+---
 
 <table>
 <tr>
 
-<td width="35%" align="center">
+<td width="38%" align="center" valign="top">
 
-<img src="YOUR_PROFILE_IMAGE_URL" width="250"/>
+<img src="YOUR_PROFILE_IMAGE_URL" width="260" style="border-radius:50%;" />
 
-<br><br>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/WEB-DEVELOPER-00F5FF?style=for-the-badge&labelColor=111111"/>
+### 🌐 Connect With Me
 
-<br><br>
+<a href="https://github.com/k-ahmad">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=k-ahmad&label=PROFILE%20VIEWS&color=7B2CFF&style=for-the-badge"/>
+<br/>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/>
+
+<a href="mailto:kashifahmad0047@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </td>
 
-<td width="65%">
+<td width="62%" valign="top">
 
-# 👋 Hey, I'm Kashif
+# 👋 About Me
 
-### `I turn ideas into modern web experiences.`
+Hi, I'm **Kashif Ahmad**, a passionate **Web Developer** who enjoys creating modern, responsive and interactive web experiences.
 
-I'm a passionate **Web Developer** focused on building responsive, interactive and user-friendly web applications.
-
-Currently I'm expanding my skills from frontend development into backend development and working toward becoming a **Full-Stack / MERN Developer**.
-
-<br>
+I'm focused on improving my skills in both **Frontend and Backend Development** and building real-world projects that solve practical problems.
 
 ```javascript
-const developer = {
-    name: "Kashif Ahmad",
+const kashif = {
     role: "Web Developer",
 
-    focus: [
-        "Frontend Development",
-        "Backend Development",
-        "REST APIs",
-        "Database Development"
-    ],
-
-    learning: [
+    currentlyLearning: [
         "React.js",
         "Node.js",
         "Express.js",
         "MongoDB"
     ],
 
-    mindset: "Build. Learn. Improve. Repeat. 🚀"
+    frontend: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap",
+        "React"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Postman"
+    ],
+
+    goal: "Build modern and scalable web applications 🚀"
 };
 ```
+
+> 💡 **My philosophy:**
+> `Learn → Build → Break → Fix → Improve → Repeat`
 
 </td>
 
@@ -63,69 +103,62 @@ const developer = {
 
 ---
 
-<div align="center">
+# ⚡ Tech Stack
 
-# ⚡ MY DIGITAL TOOLBOX
+### 🎨 Frontend
 
-### `Frontend`
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react"/>
+### ⚙️ Backend & Database
 
-<br><br>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-### `Backend & Database`
+### 🧰 Tools & Workflow
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-
-<br><br>
-
-### `Development Tools`
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
-
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
 
 ---
 
-# 🧩 WHAT I DO
+# 🚀 What I Build
 
 <table>
 <tr>
 
 <td width="33%" align="center">
 
-### 🎨 FRONTEND
+## 🎨 Frontend
 
-Build responsive interfaces with modern UI principles.
+Modern and responsive interfaces using:
 
-`HTML`
-`CSS`
-`JavaScript`
-`Bootstrap`
-`React`
+**HTML • CSS • JavaScript • Bootstrap • React**
 
 </td>
 
 <td width="33%" align="center">
 
-### ⚙️ BACKEND
+## ⚙️ Backend
 
-Create APIs and server-side applications.
+REST APIs and server-side applications using:
 
-`Node.js`
-`Express.js`
-`REST API`
+**Node.js • Express.js**
 
 </td>
 
 <td width="33%" align="center">
 
-### 🗄️ DATABASE
+## 🗄️ Database
 
-Store and manage application data.
+Working with:
 
-`MongoDB`
-`Mongoose`
+**MongoDB • Mongoose**
+
+for storing and managing application data.
 
 </td>
 
@@ -134,7 +167,7 @@ Store and manage application data.
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# 💻 Featured Projects
 
 <table>
 <tr>
@@ -143,52 +176,29 @@ Store and manage application data.
 
 ## 🏠 Dream Houses
 
-> A modern real-estate web application for exploring dream properties.
+A modern real-estate website where users can explore dream properties through a clean and responsive interface.
 
-**Stack**
+**Tech:**
 
 `React` `JavaScript` `CSS` `Bootstrap`
 
-**Includes**
-
-* 🏡 Property listings
-* 🔍 Property filtering
-* 📱 Responsive design
-* 🖼️ Gallery
-* 📞 Contact section
-
-<br>
-
-<a href="https://github.com/k-ahmad">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+🔗 **Repository:**
+[View Project →](https://github.com/k-ahmad)
 
 </td>
 
 <td width="50%">
 
-## 🛍️ E-Commerce
+## 🛍️ E-Commerce Website
 
-> A responsive shopping experience with modern product UI.
+A responsive shopping website with product cards, categories, prices, ratings and interactive shopping features.
 
-**Stack**
+**Tech:**
 
 `React` `JavaScript` `Bootstrap`
 
-**Includes**
-
-* 🛒 Product cards
-* ⭐ Ratings
-* 💰 Prices
-* 📦 Stock status
-* 🛍️ Add to cart UI
-* 📱 Responsive layout
-
-<br>
-
-<a href="https://github.com/k-ahmad">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-7B2CFF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+🔗 **Repository:**
+[View Project →](https://github.com/k-ahmad)
 
 </td>
 
@@ -198,26 +208,16 @@ Store and manage application data.
 
 <td width="50%">
 
-## 📝 Note Book
+## 📝 Note Book App
 
-> A simple productivity application for managing notes.
+A simple productivity application for creating and managing notes with a clean user interface.
 
-**Stack**
+**Tech:**
 
 `HTML` `CSS` `JavaScript`
 
-**Focus**
-
-* Clean UI
-* DOM manipulation
-* User interaction
-* Data management
-
-<br>
-
-<a href="https://github.com/k-ahmad">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+🔗 **Repository:**
+[View Project →](https://github.com/k-ahmad)
 
 </td>
 
@@ -225,25 +225,14 @@ Store and manage application data.
 
 ## 🔐 User Management API
 
-> Backend REST API for managing application users.
+A backend REST API for managing users with CRUD operations.
 
-**Stack**
+**Tech:**
 
 `Node.js` `Express.js` `MongoDB` `Mongoose`
 
-**Features**
-
-* ➕ Create users
-* 📖 Get users
-* ✏️ Update users
-* 🗑️ Delete users
-* 🔌 REST API
-
-<br>
-
-<a href="https://github.com/k-ahmad">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-7B2CFF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+🔗 **Repository:**
+[View Project →](https://github.com/k-ahmad)
 
 </td>
 
@@ -252,200 +241,117 @@ Store and manage application data.
 
 ---
 
-# 🧠 MY DEVELOPMENT JOURNEY
+# 🧠 Currently Learning
 
 ```text
-                         ┌─────────────────┐
-                         │    HTML / CSS   │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │   JavaScript    │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │    Bootstrap    │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │     React      │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │    Node.js     │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │   Express.js   │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │    MongoDB     │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │   MERN STACK   │
-                         └─────────────────┘
+React.js
+   ↓
+Node.js
+   ↓
+Express.js
+   ↓
+MongoDB
+   ↓
+MERN Stack
+```
+
+I'm continuously improving my knowledge by building projects instead of only learning theory.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=k-ahmad&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-ahmad&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=k-ahmad&theme=tokyonight&hide_border=true&border_radius=12" />
+
+</div>
+
+---
+
+# 🏆 GitHub Contributions
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=k-ahmad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
+---
+
+# 📈 My Developer Journey
+
+```text
+HTML / CSS
+    │
+    ▼
+JavaScript
+    │
+    ▼
+Bootstrap
+    │
+    ▼
+React.js
+    │
+    ▼
+Node.js
+    │
+    ▼
+Express.js
+    │
+    ▼
+MongoDB
+    │
+    ▼
+       🚀 MERN STACK
 ```
 
 ---
 
-# 📊 GITHUB ACTIVITY
+# 🎯 Future Goals
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=k-ahmad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7B2CFF&text_color=FFFFFF"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-ahmad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=k-ahmad&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=7B2CFF&currStreakLabel=00F5FF"/>
-
-</div>
+* 🚀 Become a professional Full-Stack Developer
+* 🌍 Build applications for a global audience
+* 🧠 Master the MERN Stack
+* ☁️ Learn deployment and cloud technologies
+* 🔥 Build larger real-world applications
+* 🤝 Collaborate with other developers
+* 📚 Keep learning new technologies
 
 ---
 
-# 🏆 CONTRIBUTION TROPHIES
+# 💬 Let's Connect
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=k-ahmad&theme=onestar&no-frame=true&no-bg=true&margin-w=8"/>
-
-</div>
-
----
-
-# 🔥 CURRENTLY BUILDING
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   🚀  MODERN WEB APPLICATIONS                       ║
-║                                                      ║
-║   ⚛️  React Frontend                                ║
-║   🟢  Node.js Backend                               ║
-║   🚂  Express REST APIs                             ║
-║   🍃  MongoDB Database                              ║
-║                                                      ║
-║   Goal → Full-Stack Web Development                 ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
----
-
-# 🎯 2026 GOALS
-
-<table>
-<tr>
-
-<td align="center">
-
-### 01
-
-**MASTER REACT**
-
-Build scalable and reusable React applications.
-
-</td>
-
-<td align="center">
-
-### 02
-
-**MASTER BACKEND**
-
-Build production-ready APIs with Node & Express.
-
-</td>
-
-<td align="center">
-
-### 03
-
-**MASTER DATABASE**
-
-Work confidently with MongoDB & Mongoose.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 04
-
-**REAL PROJECTS**
-
-Build applications that solve real problems.
-
-</td>
-
-<td align="center">
-
-### 05
-
-**DEPLOYMENT**
-
-Learn modern deployment and cloud workflows.
-
-</td>
-
-<td align="center">
-
-### 06
-
-**KEEP BUILDING**
-
-Learn something new every day.
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🌐 CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://github.com/k-ahmad">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### Have an idea? Let's build it together. 🚀
 
 <a href="mailto:kashifahmad0047@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/k-ahmad">
+<img src="https://img.shields.io/badge/GITHUB-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-### 💬 `Let's build something awesome together.`
+### ⭐ Thanks for visiting my profile!
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CFF,100:00F5FF&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer"/>
 
 </div>
