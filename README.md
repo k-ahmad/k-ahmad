@@ -1,14 +1,13 @@
+
+<img align="left" src="https://github.com/k-ahmad.png" width="220" height="220" alt="Kashif Ahmad" style="border-radius: 50%; margin-right: 25px;" />
+
 # 👨‍💻 KASHIF AHMAD
 
-<img align="left" src="https://github.com/k-ahmad.png" width="220" height="220" alt="Kashif Ahmad" style="border-radius: 50%;" />
-
-## Web Developer • Frontend Developer • MERN Learner
+### Web Developer • Frontend Developer • MERN Learner
 
 I'm a passionate **Web Developer** focused on building modern, responsive and user-friendly web applications.
 
 I enjoy turning ideas into real projects and continuously improving my development skills.
-
-My main focus is **Frontend Development**, while I'm also learning **Backend Development** to become a Full-Stack Developer.
 
 <br clear="left"/>
 
