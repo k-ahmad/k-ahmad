@@ -1,5 +1,13 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Your%20Name&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=MERN%20Stack%20Developer&descAlignY=60&descSize=20" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/yourusername.png" width="150" style="border-radius: 50%;" alt="Profile Picture"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">A passionate Software & Web Developer from Earth</h3>
+<h3 align="center">🚀 My Web Development Journey — MERN Stack Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/yourusername" target="blank">
@@ -15,21 +23,51 @@
 
 ---
 
-### 🚀 About Me
+### 🌐 1. Frontend Development
+`HTML5` `CSS3` `Responsive Design` `Bootstrap 5` `JavaScript` `DOM Manipulation` `Events & Forms` `LocalStorage` `Fetch API` `Async/Await`
 
-- 🔭 I'm currently working on **[Project Name]**
-- 🌱 I'm currently learning **[Tech/Framework]**
-- 👯 I'm looking to collaborate on **[Open Source / Project Type]**
-- 💬 Ask me about **JavaScript, React, Node.js**
-- 📫 How to reach me: **youremail@example.com**
-- ⚡ Fun fact: **[Something interesting about you]**
+### ⚛️ 2. React.js
+`Components` `JSX` `Props` `State` `Events` `Forms` `React Router` `API Integration` `Reusable Components` `Vite`
+
+### 🖥️ 3. Backend Development
+`Node.js` `Express.js` `REST APIs` `Routes` `Controllers` `Models` `Middleware` `CRUD Operations` `Error Handling` `Postman API Testing`
+
+### 🍃 4. Database
+`MongoDB` `MongoDB Atlas` `Mongoose` `Schema` `Models` `Create / Read / Update / Delete` `Connecting Express with MongoDB`
+
+### 🔐 5. Authentication
+`Register / Login` `Password Handling` `Sessions` `JWT` `Protected Routes` `User Authorization`
+
+### 🛠️ 6. Tools
+`VS Code` `Git` `GitHub` `GitHub Desktop` `npm` `Nodemon` `Postman` `Chrome DevTools`
+
+---
+
+### 💻 7. Projects
+
+**🟢 Beginner**
+- 📝 Todo App
+- 📋 Registration Form
+- 👤 CRUD User Management
+
+**🟡 Intermediate**
+- 🛒 E-commerce Website
+- 🏠 Dream House / Real Estate Website
+- 🗒️ Notes App
+
+**🔴 Full Stack**
+- ⚛️ React Frontend
+- 🖥️ Express Backend
+- 🍃 MongoDB Database
+- 🔐 Authentication
+- 🔄 Complete CRUD Operations
 
 ---
 
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,git,github,vscode,docker,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vite,nodejs,express,mongodb,postman,git,github,vscode" />
 </p>
 
 ---
@@ -47,16 +85,10 @@
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=redial" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blueviolet&style=flat" alt="yourusername" />
 </p>
 
 <p align="center">⭐️ From <a href="https://github.com/yourusername">yourusername</a></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" width="100%"/>
