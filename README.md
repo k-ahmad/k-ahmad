@@ -1,7 +1,5 @@
 # 👨‍💻 KASHIF AHMAD
 
-<img align="left" src="https://github.com/k-ahmad.png" width="220" height="220" alt="Kashif Ahmad" style="border-radius: 50%;" />
-
 ## Web Developer • Frontend Developer • MERN Learner
 
 I'm a passionate **Web Developer** focused on building modern, responsive and user-friendly web applications.
@@ -9,8 +7,6 @@ I'm a passionate **Web Developer** focused on building modern, responsive and us
 I enjoy turning ideas into real projects and continuously improving my development skills.
 
 My main focus is **Frontend Development**, while I'm also learning **Backend Development** to become a Full-Stack Developer.
-
-<br clear="left"/>
 
 ---
 
@@ -182,7 +178,7 @@ My goal is to bring everything together and build complete **MERN Stack applicat
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=k-ahmad\&theme=tokyonight\&hide_border=true\&border_radius=10)
 
-
+---
 
 # 📈 My Developer Journey
 
@@ -240,4 +236,3 @@ If you're interested in web development, collaboration or building something int
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kashifahmad0047@gmail.com)
 
 ---
-
